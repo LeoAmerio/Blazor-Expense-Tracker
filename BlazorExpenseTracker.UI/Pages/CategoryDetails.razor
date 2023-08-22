@@ -1,0 +1,35 @@
+﻿@page "/category-detail"
+
+@using Model
+
+<h3>CategoryDetails</h3>
+
+<EditForm Model="@category" OnValidSubmit="SaveCategories">
+    <DataAnnotationsValidator />
+    @*<ValidationSummary />*@
+    
+    <table class="table">
+        <tr>
+            <td>Name</td>
+            <td><input type="text" @bind="category.Name" /></td>
+        </tr>
+        <tr><td colspan="2"><ValidationMessage For="@(() => category.Name)" /></td></tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" value="Save"/>
+                <input type="button" value="Cancel" />
+            </td>
+        </tr>
+    </table>
+
+
+</EditForm>
+
+@code {
+    Category category = new Category();
+
+    protected void SaveCategories()
+    {
+        
+    }
+}

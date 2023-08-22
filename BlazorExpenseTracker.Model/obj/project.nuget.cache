@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4pPUrxJ3B4rdxJZsHTKkmPCL7Rv3iUpv2SI15pelH0zIdwbiZFFOVS6l2J1TDXjNe9f2wCOZ79J6G2BP5zgmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

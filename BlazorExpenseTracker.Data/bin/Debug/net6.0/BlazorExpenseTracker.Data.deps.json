@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlazorExpenseTracker.Data/1.0.0": {
+        "dependencies": {
+          "BlazorExpenseTracker.Model": "1.0.0"
+        },
+        "runtime": {
+          "BlazorExpenseTracker.Data.dll": {}
+        }
+      },
+      "BlazorExpenseTracker.Model/1.0.0": {
+        "runtime": {
+          "BlazorExpenseTracker.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorExpenseTracker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorExpenseTracker.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

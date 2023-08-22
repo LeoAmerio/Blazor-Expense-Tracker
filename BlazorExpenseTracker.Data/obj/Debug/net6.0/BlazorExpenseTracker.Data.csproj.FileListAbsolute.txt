@@ -1,0 +1,15 @@
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\bin\Debug\net6.0\BlazorExpenseTracker.Data.deps.json
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\bin\Debug\net6.0\BlazorExpenseTracker.Data.dll
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\bin\Debug\net6.0\BlazorExpenseTracker.Data.pdb
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\bin\Debug\net6.0\BlazorExpenseTracker.Model.dll
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\bin\Debug\net6.0\BlazorExpenseTracker.Model.pdb
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.csproj.AssemblyReference.cache
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.AssemblyInfoInputs.cache
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.AssemblyInfo.cs
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.csproj.CopyComplete
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.dll
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\refint\BlazorExpenseTracker.Data.dll
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\BlazorExpenseTracker.Data.pdb
+C:\Users\lamerio\source\repos\BlazorExpenseTracker\BlazorExpenseTracker.Data\obj\Debug\net6.0\ref\BlazorExpenseTracker.Data.dll
