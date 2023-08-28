@@ -1,7 +1,9 @@
 ﻿@page "/category-detail"
+@page "/category-detail/{id:int}"
 
 @using Model
-
+@using Interfaces
+@inject ICategoryService CategoryService
 <h3>CategoryDetails</h3>
 
 <EditForm Model="@category" OnValidSubmit="SaveCategories">
@@ -26,10 +28,22 @@
 </EditForm>
 
 @code {
+    
+    [Parameter]
+    public int Id { get; set; }
+    
     Category category = new Category();
 
-    protected void SaveCategories()
+    protected async override Task OnInitializedAsync()
     {
-        
+        if (Id > 0)
+        {
+            category = await CategoryService.GetCategoryDetails(Id);
+        }
+    }
+            
+    protected async Task SaveCategories()
+    {
+        await CategoryService.SaveCategory(category);
     }
 }
