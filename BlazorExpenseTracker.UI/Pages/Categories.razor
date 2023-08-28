@@ -6,14 +6,18 @@
 
 @if(categories == null)
 {
-    <p>
-        <em>Loading...|
-
-        </em>
-    </p>
+    <p><em>Loading...|</em></p>
 } 
 else
 {
+    <table class="table">
+        <tbody>
+            <tr>
+                <td colspan="2"><a href="/category-detail">Add New</a></td>
+            </tr>
+        </tbody>
+    </table>
+    
     <table style="border: 1px solid black">
         <thead>
             <tr><th>Name</th></tr>
@@ -23,6 +27,7 @@ else
             {
                 <tr>
                     <td style="border: 1px solid red">@category.Name</td>
+                    <td><a href="/category-detail/@category.Id" ><i>Edit</i></a></td>
                 </tr>
             }
         </tbody>

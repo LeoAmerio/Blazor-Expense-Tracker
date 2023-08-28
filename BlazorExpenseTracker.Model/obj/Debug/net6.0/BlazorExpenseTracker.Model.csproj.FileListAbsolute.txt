@@ -34,3 +34,15 @@ C:\Users\lamerio\Documents\ExpenseTracker\BlazorExpenseTracker.Model\obj\Debug\n
 C:\Users\lamerio\Documents\ExpenseTracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\refint\BlazorExpenseTracker.Model.dll
 C:\Users\lamerio\Documents\ExpenseTracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.pdb
 C:\Users\lamerio\Documents\ExpenseTracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\ref\BlazorExpenseTracker.Model.dll
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\bin\Debug\net6.0\BlazorExpenseTracker.Model.deps.json
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\bin\Debug\net6.0\BlazorExpenseTracker.Model.dll
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\bin\Debug\net6.0\BlazorExpenseTracker.Model.pdb
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.dll
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\refint\BlazorExpenseTracker.Model.dll
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\BlazorExpenseTracker.Model.pdb
+C:\Users\Usuario\Documents\Blazor-Expense-Tracker\BlazorExpenseTracker.Model\obj\Debug\net6.0\ref\BlazorExpenseTracker.Model.dll

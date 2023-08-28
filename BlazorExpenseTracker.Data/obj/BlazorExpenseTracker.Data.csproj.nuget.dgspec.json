@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj",
         "projectName": "BlazorExpenseTracker.Data",
-        "projectPath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj",
-        "packagesPath": "C:\\Users\\lamerio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Data\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Data\\BlazorExpenseTracker.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lamerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/architecture-it/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
-                "projectPath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj"
+              "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj"
               }
             }
           }
@@ -72,15 +68,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             }
           ],
           "frameworkReferences": {
@@ -88,25 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
         "projectName": "BlazorExpenseTracker.Model",
-        "projectPath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
-        "packagesPath": "C:\\Users\\lamerio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lamerio\\Documents\\ExpenseTracker\\BlazorExpenseTracker.Model\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\BlazorExpenseTracker.Model.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Blazor-Expense-Tracker\\BlazorExpenseTracker.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lamerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,8 +106,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/architecture-it/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -146,15 +138,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.21, 6.0.21]"
             }
           ],
           "frameworkReferences": {
@@ -162,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }
